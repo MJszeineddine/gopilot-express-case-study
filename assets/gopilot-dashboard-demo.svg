@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">Representative GoPilot Express dashboard demo</title>
+  <desc id="desc">A synthetic browser-frame mockup with demo delivery operations data.</desc>
+  <rect width="1440" height="900" fill="#f5f2ec"/>
+  <rect x="84" y="72" width="1272" height="756" rx="22" fill="#1b1d1f"/>
+  <rect x="84" y="72" width="1272" height="64" rx="22" fill="#2c3033"/>
+  <circle cx="122" cy="104" r="9" fill="#de6b48"/>
+  <circle cx="152" cy="104" r="9" fill="#d6b35a"/>
+  <circle cx="182" cy="104" r="9" fill="#57a773"/>
+  <rect x="116" y="164" width="238" height="628" rx="14" fill="#25292c"/>
+  <text x="144" y="213" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="700" fill="#f7f4ee">GoPilot</text>
+  <text x="144" y="244" font-family="Inter, Arial, sans-serif" font-size="15" fill="#bfc4bd">Representative demo data</text>
+  <rect x="144" y="298" width="154" height="38" rx="8" fill="#355d5c"/>
+  <text x="164" y="323" font-family="Inter, Arial, sans-serif" font-size="15" fill="#ffffff">Dispatcher</text>
+  <text x="144" y="382" font-family="Inter, Arial, sans-serif" font-size="17" fill="#e8e4dc">Orders</text>
+  <text x="144" y="432" font-family="Inter, Arial, sans-serif" font-size="17" fill="#e8e4dc">Dispatch runs</text>
+  <text x="144" y="482" font-family="Inter, Arial, sans-serif" font-size="17" fill="#e8e4dc">Couriers</text>
+  <text x="144" y="532" font-family="Inter, Arial, sans-serif" font-size="17" fill="#e8e4dc">Reports</text>
+  <rect x="390" y="164" width="880" height="88" rx="14" fill="#ffffff"/>
+  <text x="426" y="205" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#1b1d1f">Dispatch command center</text>
+  <text x="426" y="231" font-family="Inter, Arial, sans-serif" font-size="16" fill="#5d6467">Orders, assignments, attempts, and COD reconciliation</text>
+  <rect x="390" y="282" width="258" height="126" rx="14" fill="#ffffff"/>
+  <text x="426" y="324" font-family="Inter, Arial, sans-serif" font-size="16" fill="#5d6467">Ready for dispatch</text>
+  <text x="426" y="367" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700" fill="#1b1d1f">18</text>
+  <rect x="700" y="282" width="258" height="126" rx="14" fill="#ffffff"/>
+  <text x="736" y="324" font-family="Inter, Arial, sans-serif" font-size="16" fill="#5d6467">Active runs</text>
+  <text x="736" y="367" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700" fill="#1b1d1f">7</text>
+  <rect x="1012" y="282" width="258" height="126" rx="14" fill="#ffffff"/>
+  <text x="1048" y="324" font-family="Inter, Arial, sans-serif" font-size="16" fill="#5d6467">COD review</text>
+  <text x="1048" y="367" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700" fill="#1b1d1f">4</text>
+  <rect x="390" y="438" width="880" height="290" rx="14" fill="#ffffff"/>
+  <text x="426" y="483" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#1b1d1f">Today&apos;s workflow</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="16">
+    <text x="426" y="540" fill="#596064">GX-1028</text><text x="590" y="540" fill="#1b1d1f">Merchant pickup verified</text><text x="1064" y="540" fill="#355d5c">Assign courier</text>
+    <line x1="426" y1="568" x2="1230" y2="568" stroke="#ebe7df"/>
+    <text x="426" y="620" fill="#596064">GX-1034</text><text x="590" y="620" fill="#1b1d1f">Run handed over</text><text x="1064" y="620" fill="#a05f2d">In progress</text>
+    <line x1="426" y1="648" x2="1230" y2="648" stroke="#ebe7df"/>
+    <text x="426" y="700" fill="#596064">GX-1039</text><text x="590" y="700" fill="#1b1d1f">COD reconciliation pending</text><text x="1064" y="700" fill="#7b4d4d">Review</text>
+  </g>
+</svg>
