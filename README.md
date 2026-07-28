@@ -57,4 +57,4 @@ The delivery approach separated local development, staging certification, produc
 
 ## Contact
 
-Need a white-label engineer for a production rescue or scoped build? Contact [zjawad1999@gmail.com](mailto:zjawad1999@gmail.com).
+Need a white-label engineer for a production rescue or scoped build? Contact [mjawadzeineddine@gmail.com](mailto:mjawadzeineddine@gmail.com).
