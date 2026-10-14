@@ -8,6 +8,9 @@ GoPilot Express is a production-oriented delivery operations system designed aro
 
 ![Representative GoPilot Express demo dashboard](assets/gopilot-dashboard-demo.svg)
 
+**Building a logistics, dispatch or multi-role business application?** [Request a scoped engineering proposal](https://docs.google.com/forms/d/e/1FAIpQLSeTtJoymcR3Zr4JdVvCq8lY1yuiyp6w_FI_hqiLG6IvEJgqDg/viewform) or [see the full portfolio](https://mjszeineddine.github.io/). This is an architecture case study; confidential source and real customer information are not public.
+
+
 ## Business Problem
 
 Delivery teams need a reliable operating layer between merchants, dispatchers, couriers, and business owners. The platform had to support order intake, dispatch coordination, courier execution, proof handling, COD operations, reporting, and bilingual usage without relying on live tracking or fleet-management claims.
